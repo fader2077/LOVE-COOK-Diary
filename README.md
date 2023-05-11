@@ -40,7 +40,7 @@ repo url: https://github.com/fader2077/LOVE-COOK-Diary.git
 -->
 # LOVE COOK Diary
 
-## Status (狀態)
+## Status
 
 ![GitHub stars](https://img.shields.io/github/stars/fader2077/LOVE-COOK-Diary?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/fader2077/LOVE-COOK-Diary?style=social)
